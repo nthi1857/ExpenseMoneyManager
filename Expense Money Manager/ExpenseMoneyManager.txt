@@ -1,0 +1,5 @@
+2019/11/27,Transportation,1500
+2019/11/24,Education,1600
+2019/11/24,Social Life,1600
+2019/11/24,Social Life,2600
+2019/11/28,Health,5000
