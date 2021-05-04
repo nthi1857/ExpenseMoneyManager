@@ -1,1 +1,1 @@
-# ExpenseMoneyManager
+# Expense Money Manager - Java application 
